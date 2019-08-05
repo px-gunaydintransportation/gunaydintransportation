@@ -1,0 +1,4 @@
+language: csharp
+dotnet: 2.2
+dist: bionic
+solution: ./GunaydinTransporting.sln

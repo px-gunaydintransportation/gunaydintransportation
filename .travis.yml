@@ -1,6 +1,4 @@
 language: csharp
-mono: none
-sudo: required
 dotnet: 2.2
 dist: bionic
 solution: ./GunaydinTransporting.sln
